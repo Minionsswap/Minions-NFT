@@ -186,7 +186,7 @@ library SafeMath {
 
 contract Minions {
     /// @notice EIP-20 token name for this token
-    string public constant name = "Minions";
+    string public constant name = "Minions-NFT";
 
     /// @notice EIP-20 token symbol for this token
     string public constant symbol = "MIS";
